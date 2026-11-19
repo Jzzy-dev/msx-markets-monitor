@@ -1,0 +1,12 @@
+src/mktw.bin
+src/mktw.zx0
+src/*.sym
+src/*.lst
+test/z80run
+test/z80_mk
+test/test_rssw
+test/z80/
+test/ini/
+*.vram
+*.png
+!docs/*.png
